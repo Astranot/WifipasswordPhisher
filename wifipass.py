@@ -177,6 +177,6 @@ if os.path.exists('ding.txt'):
     os.remove('ding.txt')
 
 # clear screen and exit the program
-#os.system('cls')
+os.system('cls')
 print("Something went wrong :(")
 input("Press any key to continue")
