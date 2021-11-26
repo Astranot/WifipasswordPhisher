@@ -1,4 +1,4 @@
-# WifipasswordPhisher
+# Xentron aka Wifi Password Phisher
 
 #### - This is for educational purposes only
 #### - Everything is under the users responsibility
