@@ -11,7 +11,7 @@
 
 ## Install and compile
 
-	git clone https://github.com/Astranot/WifipasswordPhisher
+	git clone https://github.com/Astranot/Xentron.git
 	cd WifipasswordPhisher
 	pyinstaller --onefile wifipass.py
 	
